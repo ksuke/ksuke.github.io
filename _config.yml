@@ -1,11 +1,10 @@
 title: ksuke
 
 theme: jekyll-theme-cayman.
-markdown: kramdown
-kramdown:
-  input: GFM
+markdown: redcarpet
 redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", "jekyll-sitemap"]
+  input: GFM
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
 font_heading:        "'Roboto Slab', Helvetica, Arial, sans-serif"
