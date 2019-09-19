@@ -152,3 +152,6 @@ public class PriorityQueue<TKey, TValue> : IEnumerable<TValue>
     IEnumerator IEnumerable.GetEnumerator() => GetEnumerator();
 }
 ```
+
+# 参考
+https://gist.github.com/trevordixon/10401462
