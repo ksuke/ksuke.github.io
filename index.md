@@ -4,6 +4,6 @@ title: トップページ
 
 # コード
 ## C#
-[優先度付きキュー](/C#/PriorityQueue)
+[優先度付きキュー](/CSharp/PriorityQueue)
 
 ## T-SQL
