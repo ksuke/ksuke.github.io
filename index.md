@@ -1,3 +1,8 @@
+---
+layout: default
+title: トップページ
+---
+
 # A
 ## A-1
 ## A-2
